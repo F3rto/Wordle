@@ -1,0 +1,4 @@
+{"username":"peppe","password":"palla","isLogged":false,"word":"fetterlock","tentativi":12,"indovinata":false,"partite_giocate":3,"partite_vinte":2,"perc_vinte":66.0,"streak":0,"max_streak":2}
+{"username":"marta","password":"fronte","isLogged":false,"word":"militarism","tentativi":12,"indovinata":false,"partite_giocate":1,"partite_vinte":0,"perc_vinte":0.0,"streak":0,"max_streak":0}
+{"username":"pie","password":"ok","isLogged":false,"word":"horizontal","tentativi":12,"indovinata":true,"partite_giocate":2,"partite_vinte":2,"perc_vinte":100.0,"streak":2,"max_streak":2,"guess_distribution":[2,2]}
+{"username":"giuseppe","password":"zocco","isLogged":false,"word":"","tentativi":12,"indovinata":false,"partite_giocate":0,"partite_vinte":0,"perc_vinte":0.0,"streak":0,"max_streak":0,"guess_distribution":[]}
